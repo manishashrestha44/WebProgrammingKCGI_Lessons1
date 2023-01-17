@@ -1,0 +1,40 @@
+body {
+  background-color: lightblue;
+font-family: Helvetica, sans-serif;
+color: #665544;
+border: 2px solid #e7642c;
+padding: 20px;}
+h1,h2,h3 {
+border: 2px solid #e7642c;
+padding: 10px;
+}
+h1,h2,h3, p {
+padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 50px;
+padding-left: 20px;
+}
+h1, h2, h3 {
+font-family: Georgia, serif;
+font-weight: bold;
+  margin-top: 50px;
+}
+h1, h2, h3 {
+color: #ee3e80;
+}
+h1.fancy {
+text-decoration: underline
+}
+p {
+  color: #555;
+  font-size: 1.2em;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
